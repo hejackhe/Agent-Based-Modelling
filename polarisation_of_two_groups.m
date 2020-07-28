@@ -1,5 +1,3 @@
-% Assignment Part 4
-
 %Schelling-style model
 clear all
 
