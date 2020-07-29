@@ -1,6 +1,6 @@
 # Agent Based Modelling
 
-A simulation of Schelling's model of segregation between Economists and Psychologists. 
+A simulation of Schelling's model of segregation between Economists and Psychologists (depicted by individual pixels). 
 
 The MATLAB code will output a video demonstrating the progressive polarisation between groups.
 
